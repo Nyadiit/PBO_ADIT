@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2023-10-04T01:57:38.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0gPtMAyn3kc5dst0mO4n" version="22.0.2" type="github">
+  <diagram name="Halaman-1" id="idUrGN6LsFJNRz62nvEc">
+    <mxGraphModel dx="880" dy="2808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-1" target="OnpOE8iWYeMyYhNoiAKS-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-1" value="MULAI" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1610" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-2" target="OnpOE8iWYeMyYhNoiAKS-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-2" value="MENENTUKAN ANGKA YANG AKAN DITEBAK" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-1440" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-12" target="OnpOE8iWYeMyYhNoiAKS-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-12" target="OnpOE8iWYeMyYhNoiAKS-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-12" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TEBAKAN &amp;lt; ANGKA&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-1055" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-14" target="OnpOE8iWYeMyYhNoiAKS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-14" target="OnpOE8iWYeMyYhNoiAKS-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-14" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TEBAKAN &amp;gt; ANGKA&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-1060" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-16" target="OnpOE8iWYeMyYhNoiAKS-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-16" value="TEBAKAN BENAR" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-1060" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="-1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-21" value="ANGKA LEBIH BESAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="-850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-23" target="OnpOE8iWYeMyYhNoiAKS-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-23" value="BENAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-27" value="SELESAI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="-1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-31" value="ANGKA LEBIH KECIL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="-850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-33" target="OnpOE8iWYeMyYhNoiAKS-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-33" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MENEBAK ANGKA YANG DITENTUKAN&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OnpOE8iWYeMyYhNoiAKS-35" target="OnpOE8iWYeMyYhNoiAKS-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-35" value="TEBAKAN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-1310" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-1300" as="sourcePoint" />
+            <mxPoint x="360" y="-1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnpOE8iWYeMyYhNoiAKS-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OnpOE8iWYeMyYhNoiAKS-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="-1280" as="sourcePoint" />
+            <mxPoint x="460" y="-1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
